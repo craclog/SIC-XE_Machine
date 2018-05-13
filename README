@@ -1,31 +1,27 @@
-/*#################*/
-/*                 */
-/*     README      */
-/*                 */
-/*#################*/
+SIC/XE Machine
+==================================================
+This program is implementing SIC/XE machine's virtual version, 
+including Shell, Assembler, Loader and Linker.
 
-	CSE4100-01 System Programming Project
+## How to compile
 
-# WHAT IS THIS?
+	$ make
 
-	This program is implementing SIC/XE machine's
-	virtual version.
+## How to run
 
-# HOW tO USE IT?
+	$ ./sicxe.out
+
+## How to clean the file
+
+	$ make clean
 	
-	This program works like shell.
-	If you want to know commands, enter "help" or "h"
 
-# COMPILING:
-	
-	Enter "make", then excutable file[ sicxe.out ] will 
-	be created.
-	
-	****************
-	make
-	./sicxe.out
-	****************
 
-# AUTHOR:
-	
-	20131579 KIYOUNG YOON
+## Reference
+
+* Leland L. Beck, System Software: An Introduction to Systems Programming (3rd ed), Addison-Wesley
+
+
+-------------------------------------------------
+
+* Author: Kiyoung Yoon
