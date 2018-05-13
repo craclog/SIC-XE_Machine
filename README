@@ -1,0 +1,31 @@
+/*#################*/
+/*                 */
+/*     README      */
+/*                 */
+/*#################*/
+
+	CSE4100-01 System Programming Project
+
+# WHAT IS THIS?
+
+	This program is implementing SIC/XE machine's
+	virtual version.
+
+# HOW tO USE IT?
+	
+	This program works like shell.
+	If you want to know commands, enter "help" or "h"
+
+# COMPILING:
+	
+	Enter "make", then excutable file[ sicxe.out ] will 
+	be created.
+	
+	****************
+	make
+	./sicxe.out
+	****************
+
+# AUTHOR:
+	
+	20131579 KIYOUNG YOON
